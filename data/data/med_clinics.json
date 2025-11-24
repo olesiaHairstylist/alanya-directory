@@ -1,0 +1,72 @@
+[
+  {
+    "id": "MED_CL_01",
+    "category": "med",
+    "name": "Anatolia Hospital Alanya",
+    "type": "Частная клиника",
+    "status": "standard",
+    "address": "Saray Mah., Yunus Emre Cd. No:6, Alanya",
+    "google_maps": "https://maps.google.com/?q=Anatolia+Hospital+Alanya",
+    "phone": "+90 242 513 50 00",
+    "whatsapp": "",
+    "languages": ["TR", "EN"],
+    "description": "Крупная частная клиника: терапия, кардиология, хирургия, лаборатория, стационар.",
+    "working_hours": "24/7"
+  },
+  {
+    "id": "MED_CL_02",
+    "category": "med",
+    "name": "Alanya Yaşam Hospital",
+    "type": "Частная клиника",
+    "status": "standard",
+    "address": "Güllerpınarı Mah., Keykubat Blv. No:113, Alanya",
+    "google_maps": "https://maps.google.com/?q=Yaşam+Hospital+Alanya",
+    "phone": "+90 242 515 44 55",
+    "whatsapp": "",
+    "languages": ["TR", "EN", "RU"],
+    "description": "Частная больница. Приём специалистов, диагностика, УЗИ, лаборатория.",
+    "working_hours": "24/7"
+  },
+  {
+    "id": "MED_CL_03",
+    "category": "med",
+    "name": "Başkent University Alanya Hospital",
+    "type": "Университетский госпиталь",
+    "status": "standard",
+    "address": "Saray Mah., Başkent Cd. No:47, Alanya",
+    "google_maps": "https://maps.google.com/?q=Başkent+University+Hospital+Alanya",
+    "phone": "+90 242 510 25 25",
+    "whatsapp": "",
+    "languages": ["TR", "EN"],
+    "description": "Одна из крупнейших клиник: кардиология, неврология, хирургия, МРТ, КТ.",
+    "working_hours": "Пн–Сб 08:00–17:00"
+  },
+  {
+    "id": "MED_CL_04",
+    "category": "med",
+    "name": "Dent Antera",
+    "type": "Стоматология",
+    "status": "standard",
+    "address": "Saray Mah., Atatürk Blv. No:58, Alanya",
+    "google_maps": "https://maps.google.com/?q=Dent+Antera+Alanya",
+    "phone": "+90 242 511 10 11",
+    "whatsapp": "",
+    "languages": ["TR", "EN", "RU"],
+    "description": "Современная стоматологическая клиника: имплантация, лечение, эстетика.",
+    "working_hours": "Пн–Сб 09:00–19:00"
+  },
+  {
+    "id": "MED_CL_05",
+    "category": "med",
+    "name": "Biolife Tahlil Laboratuvarı",
+    "type": "Лаборатория",
+    "status": "standard",
+    "address": "Şekerhane Mah., Tevfik Fikret Cd. No:24, Alanya",
+    "google_maps": "https://maps.google.com/?q=Biolife+Laboratuvarı+Alanya",
+    "phone": "+90 242 511 22 33",
+    "whatsapp": "",
+    "languages": ["TR"],
+    "description": "Лабораторные анализы: кровь, гормоны, витамины, PCR.",
+    "working_hours": "Пн–Сб 08:00–18:00"
+  }
+]
