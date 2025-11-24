@@ -1,0 +1,24 @@
+{
+  "id": "BEAUTY_01",
+  "category": "beauty",
+  "name": "Olesya Hair Studio",
+  "type": "Салон красоты / Женский парикмахер",
+  "status": "partner",
+  "address": "Alanya, Mahmutlar (точный адрес можно дополнить)",
+  "google_maps": "",
+  "phone": "+90 5XX XXX XX XX",
+  "whatsapp": "+90 5XX XXX XX XX",
+  "languages": ["RU", "TR", "EN"],
+  "description": "Профессиональный женский парикмахер: холодный блонд, окрашивание, уход, стрижки. Партнёр Алания Справочник 2025.",
+  "instagram": "https://instagram.com/olesya.hair07",
+  "working_hours": "По записи",
+  "advantages": [
+    "Специализация на холодных блонда",
+    "Окрашивание любой сложности",
+    "Исправление цвета",
+    "Уходовые процедуры",
+    "Работа с русскоязычными клиентами"
+  ],
+  "price_info": "",
+  "notes": "Главная партнёрская карточка BEAUTY"
+}
